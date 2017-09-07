@@ -4,11 +4,11 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-    'dsn'	        => '',
+    'dsn'           => '',
     'hostname'      => 'localhost',
-    'username'      => 'shikezj_cn',
-    'password'      => 'dancdw123',
-    'database'      => 'shikezj_cn',
+    'username'      => 'root',
+    'password'      => '',
+    'database'      => 'shikezj',
     'dbdriver'      => 'mysqli',
     'dbprefix'      => 'm_',
     'port'          => '3306',
